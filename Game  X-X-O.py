@@ -28,7 +28,7 @@ lines = [[(0, 0), (0, 0), (0, 0)],
 screen = pygame.display.set_mode((width, height))
 # img = pygame.image.load("ZERO.jpg")
 # pygame.display.set_icon(img)
-pygame.display.set_caption("КРЕСТики  И  НОЛЬики: X-X-O                ANDREY PROJECT")
+pygame.display.set_caption("КРЕСТики  И  НОЛЬики: X-X-O                ANDREY PROJECT super")
 clock = pygame.time.Clock()
 
 
